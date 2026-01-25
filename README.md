@@ -1,10 +1,10 @@
 # javabasics
-Basic java programes for practice 
-<b>
-#PROGRAMES INCLUDED
--Prime number checker
--Simple calculator
--Guess the number game
--Star pattern programs
+Basic java programes for practice<br>
+
+#PROGRAMES INCLUDED<br>
+-Prime number checker<br>
+-Simple calculator<br>
+-Guess the number game<br>
+-Star pattern programs<br>
 
 
