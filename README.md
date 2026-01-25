@@ -1,0 +1,2 @@
+# javabasics
+Basic java codes 
