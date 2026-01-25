@@ -1,5 +1,4 @@
 # javabasics
-Basic java codes 
-<b>
+Basic java codes <b>
 codes of java
 
