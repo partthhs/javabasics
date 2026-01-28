@@ -8,5 +8,6 @@ Basic java programes for practice<br>
 -Star pattern programs<br>
 -Number pattern programs<br>
 -Alphabets pattern programs<br>
+-Pyramid Star pattern programs<br>
 
 
