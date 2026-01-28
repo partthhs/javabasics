@@ -1,0 +1,44 @@
+import java.util.Scanner;
+
+class StudentMarksProfile {
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter Student Name: ");
+        String name = sc.nextLine();
+
+        System.out.print("Enter Roll Number: ");
+        int roll = sc.nextInt();
+
+        int total = 0;
+        int subjects = 5;
+
+        System.out.println("Enter marks of 5 subjects:");
+        for (int i = 1; i <= subjects; i++) {
+            int marks = sc.nextInt();
+            total += marks;
+        }
+
+        double average = total / (double) subjects;
+        char grade;
+
+        if (average >= 90)
+            grade = 'A';
+        else if (average >= 75)
+            grade = 'B';
+        else if (average >= 60)
+            grade = 'C';
+        else
+            grade = 'D';
+
+        System.out.println("\n--- Student Marks Profile ---");
+        System.out.println("Name: " + name);
+        System.out.println("Roll No: " + roll);
+        System.out.println("Total Marks: " + total);
+        System.out.println("Average: " + average);
+        System.out.println("Grade: " + grade);
+
+        sc.close();
+    }
+}
