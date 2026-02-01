@@ -12,6 +12,8 @@ Created for practice<br>
 #PROGRAMES INCLUDED<br>
 -Prime number checker<br>
 -Simple calculator<br>
+-Area od circle<br>
+-Greatest number code<br>
 -Guess the number game<br>
 -Star pattern programs<br>
 -Number pattern programs<br>
