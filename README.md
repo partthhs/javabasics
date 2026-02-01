@@ -1,5 +1,13 @@
 # javabasics
-Basic java programes for practice<br>
+This repository contains basic Java programs for beginners.<br>
+Created for practice<br>
+
+##Concepts Covered<br>
+-loops<br>
+-conditional statements<br>
+-variables<br>
+-operators<br>
+
 
 #PROGRAMES INCLUDED<br>
 -Prime number checker<br>
@@ -13,3 +21,6 @@ Basic java programes for practice<br>
 -Area of Circle using methods in oops<br>
 -Weight converter code using if else<br>
 -static variable example code<br>
+
+##Author
+Parth S
