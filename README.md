@@ -11,6 +11,7 @@ Created for practice<br>
 
 #PROGRAMES INCLUDED<br>
 -Prime number checker<br>
+-Pallindrome number checker<br>
 -Simple calculator<br>
 -Area od circle<br>
 -Greatest number code<br>
