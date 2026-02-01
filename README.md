@@ -12,4 +12,4 @@ Basic java programes for practice<br>
 -Students marks profile<br>
 -Area of Circle using methods in oops<br>
 -Weight converter code using if else<br>
-
+-static variable example code<br>
