@@ -14,6 +14,7 @@ Created for practice<br>
 -Pallindrome number checker<br>
 -Simple calculator<br>
 -Area od circle<br>
+-Multiplication code<br>
 -Greatest number code<br>
 -Guess the number game<br>
 -Star pattern programs<br>
