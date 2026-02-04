@@ -26,6 +26,7 @@ Created for practice<br>
 -Area of Circle using methods in oops<br>
 -Weight converter code using if else<br>
 -static variable example code<br>
-
+-Power of a number using recursion<br>
+-Factorial of a number using recursion<br>
 ##Author
 Parth S
