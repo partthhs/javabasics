@@ -28,5 +28,7 @@ Created for practice<br>
 -static variable example code<br>
 -Power of a number using recursion<br>
 -Factorial of a number using recursion<br>
+-Fibonacci Series using Recursion<br> 
+
 ##Author
 Parth S
