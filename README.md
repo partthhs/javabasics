@@ -30,8 +30,6 @@ Created for practice<br>
 -Factorial of a number using recursion<br>
 -Fibonacci Series using Recursion<br> 
 -Relational operator code<br>
--Power of a number using Recursion<br>
--Factorial of a number using Recursion<br>
 
 ##Author
 Parth S
