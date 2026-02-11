@@ -7,7 +7,8 @@ Created for practice<br>
 -conditional statements<br>
 -variables<br>
 -operators<br>
--Recursion<be>
+-Recursion<br>
+-Array<br>
 
 
 #PROGRAMES INCLUDED<br>
@@ -30,6 +31,10 @@ Created for practice<br>
 -Factorial of a number using recursion<br>
 -Fibonacci Series using Recursion<br> 
 -Relational operator code<br>
+-Sum of array<br>
+-Maximum element in an array<br>
+-Minimum element in an array<br>
+-Print element of array<br>
 
 ##Author
 Parth S
