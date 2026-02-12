@@ -1,0 +1,12 @@
+public class Reversearray{
+
+public static void main(String[]args)
+{
+int[] are = { 1,3 77,90};
+ 
+for(int i= are.length-1; i>=0; i--)
+{
+System.out.print(are[i] +" ");
+}
+}
+}
