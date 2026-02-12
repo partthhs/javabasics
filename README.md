@@ -35,6 +35,7 @@ Created for practice<br>
 -Maximum element in an array<br>
 -Minimum element in an array<br>
 -Print element of array<br>
+-Reverse of an array<br>
 
 ##Author
 Parth S
