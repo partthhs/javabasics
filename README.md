@@ -36,6 +36,8 @@ Created for practice<br>
 -Minimum element in an array<br>
 -Print element of array<br>
 -Reverse of an array<br>
+-Display of Integer greater than average of all elements using array<br>
+-Even odd elements display using array<br>
 
 ##Author
 Parth S
