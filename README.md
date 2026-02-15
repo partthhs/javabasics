@@ -39,6 +39,7 @@ Created for practice<br>
 -Display of Integer greater than average of all elements using array<br>
 -Even odd elements display using array<br>
 -Merge two array<br>
+-Second largest element from array<br>
 
 ##Author
 Parth S
