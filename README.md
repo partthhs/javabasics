@@ -40,6 +40,7 @@ Created for practice<br>
 -Even odd elements display using array<br>
 -Merge two array<br>
 -Second largest element from array<br>
+-Addition of 2D array<br>
 
 ##Author
 Parth S
