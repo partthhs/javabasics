@@ -41,6 +41,7 @@ Created for practice<br>
 -Merge two array<br>
 -Second largest element from array<br>
 -Addition of 2D array<br>
+-Transpose of a matrice using array<br>
 
 ##Author
 Parth S
