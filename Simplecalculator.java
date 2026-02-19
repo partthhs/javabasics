@@ -4,7 +4,9 @@ public class Simplecalculator {
     public static void main(String[]args)
     {
         Scanner ob=new Scanner(System.in);
+        System.out.println("*****************");
         System.out.println("SIMPLE CALCULATOR");
+        System.out.println("*****************");
         System.out.print("Enter the numbers=");
         int n1=ob.nextInt();
         int n2=ob.nextInt();
@@ -45,5 +47,6 @@ switch (operator){
 }
     }
     
+
 
 
