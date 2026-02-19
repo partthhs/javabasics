@@ -42,6 +42,7 @@ Created for practice<br>
 -Second largest element from array<br>
 -Addition of 2D array<br>
 -Transpose of a matrice using array<br>
+-Sum of diagonal elements of a matrice using 2d array<br>
 
 ##Author
 Parth S
