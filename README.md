@@ -1,4 +1,4 @@
-l# javabasics
+# javabasics
 This repository contains basic Java programs for beginners.<br>
 Created for practice<br>
 
