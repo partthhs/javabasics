@@ -1,4 +1,4 @@
-# javabasics
+l# javabasics
 This repository contains basic Java programs for beginners.<br>
 Created for practice<br>
 
@@ -43,6 +43,7 @@ Created for practice<br>
 -Addition of 2D array<br>
 -Transpose of a matrice using array<br>
 -Sum of diagonal elements of a matrice using 2d array<br>
+-Reverse words using string<br>
 
 ##Author
 Parth S
