@@ -9,7 +9,7 @@ Created for practice<br>
 -operators<br>
 -Recursion<br>
 -Array<br>
-
+-Vector<br>
 
 #PROGRAMES INCLUDED<br>
 -Prime number checker<br>
@@ -44,6 +44,7 @@ Created for practice<br>
 -Transpose of a matrice using array<br>
 -Sum of diagonal elements of a matrice using 2d array<br>
 -Reverse words using string<br>
+-Shopping list using vectors<br>
 
 ##Author
 Parth S
