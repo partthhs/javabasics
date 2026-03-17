@@ -45,6 +45,7 @@ Created for practice<br>
 -Sum of diagonal elements of a matrice using 2d array<br>
 -Reverse words using string<br>
 -Shopping list using vectors<br>
+-pallindrome checker using string<br>
 
 ##Author
 Parth S
