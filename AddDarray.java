@@ -1,3 +1,5 @@
+//Addition of two matrices using array
+
 import java.util.Scanner;
 public class AddDarray {
     public static void main(String[]args)
