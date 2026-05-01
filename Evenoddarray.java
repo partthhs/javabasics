@@ -1,3 +1,5 @@
+//Even odd elements using for loop
+
 import java.util.Scanner;
 public class Evenoddarray {
     public static void main(String[]args)
