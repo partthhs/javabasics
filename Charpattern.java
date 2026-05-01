@@ -1,3 +1,5 @@
+//Character pattern code
+
 package javabasics;
 import java.util.Scanner;
 public class Charpattern {
