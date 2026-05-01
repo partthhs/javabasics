@@ -1,3 +1,5 @@
+//Array elements display 
+
 public class Arrayelement {
     public static void main(String[]args)
     {
