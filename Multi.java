@@ -1,3 +1,5 @@
+
+//Arithmetic operator code
 class Multi
 {
    public static void main(String[] ar) 
