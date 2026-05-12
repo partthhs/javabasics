@@ -1,3 +1,4 @@
+//Stars pyramid pattern using for loop
 import java.util.Scanner;
 
 public class Pyramid {
