@@ -1,3 +1,5 @@
+//Factorial of a number using recursion code-
+
 import java.util.Scanner;
 public class Factrecurrsion {
     static int factorial(int n)
