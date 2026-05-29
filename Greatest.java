@@ -1,3 +1,5 @@
+//Greatest number using packages
+
 package JAVA2;
 import java.util.Scanner;
 class Greatest
