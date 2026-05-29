@@ -1,3 +1,5 @@
+//Guessing number project, you have to guess the number in 5 chances
+
 import java.util.Scanner;
 class Guess {
  public static void main(String[]args)
