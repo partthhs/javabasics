@@ -1,3 +1,4 @@
+//power of a number using if else loops
 import java.util.Scanner;
 public class Powerrec 
 {
