@@ -1,3 +1,4 @@
+//Factorial of a number using recursion 
 class Factorial 
 {
 static int factorial(int n)
