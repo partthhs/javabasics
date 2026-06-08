@@ -1,3 +1,4 @@
+//weight converter into different units
 import java.util.Scanner;
 public class Weightconverter {
     public static void main(String[]args)
