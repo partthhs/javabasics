@@ -1,3 +1,4 @@
+//pallindrome of a number using string 
 import java.util.*;
 
 public class Main {
