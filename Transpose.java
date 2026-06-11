@@ -1,4 +1,4 @@
-//transpose of matrix using array
+// transpose of matrix using array
 import java.util.Scanner;
 public class Transpose {
     public static void main(String[]args)
