@@ -1,3 +1,4 @@
+//Shopping list using vector
 import java.util.Scanner;
 import java.util.Vector;
 public class Vectorshoppinglist 
