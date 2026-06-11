@@ -1,3 +1,4 @@
+//simple vector code
 import java.util.Vector;
 
 public class Main {
