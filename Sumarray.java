@@ -1,3 +1,4 @@
+//Sum of an array code
 public class Sumarray {
     public static void main(String[]args)
     {
