@@ -1,3 +1,4 @@
+//Sum of diagonal elements of an array code
 import java.util.Scanner;
 public class Sumofdiagonal{
     public static void main(String[]args)
